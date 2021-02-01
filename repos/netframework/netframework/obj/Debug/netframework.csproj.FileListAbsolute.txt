@@ -1,0 +1,2 @@
+C:\Users\mhasb\Source\Repos\netframework\obj\Debug\netframework.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\obj\Debug\netframework.csproj.CoreCompileInputs.cache

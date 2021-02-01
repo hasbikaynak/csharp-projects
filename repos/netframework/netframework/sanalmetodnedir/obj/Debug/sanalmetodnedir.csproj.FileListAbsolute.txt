@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\sanalmetodnedir\bin\Debug\sanalmetodnedir.exe.config
+C:\Users\mhasb\Source\Repos\netframework\sanalmetodnedir\bin\Debug\sanalmetodnedir.exe
+C:\Users\mhasb\Source\Repos\netframework\sanalmetodnedir\bin\Debug\sanalmetodnedir.pdb
+C:\Users\mhasb\Source\Repos\netframework\sanalmetodnedir\obj\Debug\sanalmetodnedir.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\sanalmetodnedir\obj\Debug\sanalmetodnedir.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\sanalmetodnedir\obj\Debug\sanalmetodnedir.exe
+C:\Users\mhasb\Source\Repos\netframework\sanalmetodnedir\obj\Debug\sanalmetodnedir.pdb

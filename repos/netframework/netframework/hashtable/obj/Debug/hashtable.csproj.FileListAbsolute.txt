@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\hashtable\obj\Debug\hashtable.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\hashtable\obj\Debug\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\hashtable\bin\Debug\hashtable.exe.config
+C:\Users\mhasb\Source\Repos\netframework\hashtable\bin\Debug\hashtable.exe
+C:\Users\mhasb\Source\Repos\netframework\hashtable\bin\Debug\hashtable.pdb
+C:\Users\mhasb\Source\Repos\netframework\hashtable\obj\Debug\hashtable.exe
+C:\Users\mhasb\Source\Repos\netframework\hashtable\obj\Debug\hashtable.pdb

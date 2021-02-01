@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\circle deneme 2\bin\Debug\circle deneme 2.exe.config
+C:\Users\mhasb\Source\Repos\circle deneme 2\bin\Debug\circle deneme 2.exe
+C:\Users\mhasb\Source\Repos\circle deneme 2\bin\Debug\circle deneme 2.pdb
+C:\Users\mhasb\Source\Repos\circle deneme 2\obj\Debug\circle deneme 2.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\circle deneme 2\obj\Debug\circle_deneme_2.Form1.resources
+C:\Users\mhasb\Source\Repos\circle deneme 2\obj\Debug\circle_deneme_2.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\circle deneme 2\obj\Debug\circle deneme 2.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\circle deneme 2\obj\Debug\circle deneme 2.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\circle deneme 2\obj\Debug\circle deneme 2.exe
+C:\Users\mhasb\Source\Repos\circle deneme 2\obj\Debug\circle deneme 2.pdb

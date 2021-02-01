@@ -1,0 +1,7 @@
+C:\Users\CEM\source\repos\ReflectionWinForm\LateBindingIslemleri\bin\Debug\LateBindingIslemleri.exe.config
+C:\Users\CEM\source\repos\ReflectionWinForm\LateBindingIslemleri\bin\Debug\LateBindingIslemleri.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\LateBindingIslemleri\bin\Debug\LateBindingIslemleri.pdb
+C:\Users\CEM\source\repos\ReflectionWinForm\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.pdb

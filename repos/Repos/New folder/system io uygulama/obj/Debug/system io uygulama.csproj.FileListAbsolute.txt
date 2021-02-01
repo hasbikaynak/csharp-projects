@@ -1,0 +1,14 @@
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\bin\Debug\system io uygulama.exe.config
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\bin\Debug\system io uygulama.exe
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\bin\Debug\system io uygulama.pdb
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\bin\Debug\FakeData.dll
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\bin\Debug\FakeData.pdb
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system io uygulama.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system_io_uygulama.Form1.resources
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system_io_uygulama.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system io uygulama.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system io uygulama.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system io uygulama.csproj.CopyComplete
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system io uygulama.exe
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system io uygulama.pdb
+C:\Users\mhasb\Source\Repos\New folder\system io uygulama\obj\Debug\system_io_uygulama.PersonelDetaylari.resources

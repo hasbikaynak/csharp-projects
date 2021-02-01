@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Date</title>
+    <style>
+        body{
+            font-family:Verdana;
+            font-size:large;
+        }
+    </style>
+    <script>
+        function todaysDate() {
+            var d = new Date();
+            return d.getDate() + "-" + (d.getMonth() + 1).toString() + "-" + d.getFullYear();
+        }
+    </script>
+</head>
+<body>
+    <script>
+        document.write(new Date());
+        document.write("<br />" + todaysDate());
+    </script>
+</body>
+</html>

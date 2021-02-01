@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\circles and sticks\bin\Debug\circles and sticks.exe.config
+C:\Users\mhasb\Source\Repos\circles and sticks\bin\Debug\circles and sticks.exe
+C:\Users\mhasb\Source\Repos\circles and sticks\bin\Debug\circles and sticks.pdb
+C:\Users\mhasb\Source\Repos\circles and sticks\obj\Debug\circles and sticks.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\circles and sticks\obj\Debug\circles_and_sticks.Form1.resources
+C:\Users\mhasb\Source\Repos\circles and sticks\obj\Debug\circles_and_sticks.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\circles and sticks\obj\Debug\circles and sticks.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\circles and sticks\obj\Debug\circles and sticks.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\circles and sticks\obj\Debug\circles and sticks.exe
+C:\Users\mhasb\Source\Repos\circles and sticks\obj\Debug\circles and sticks.pdb

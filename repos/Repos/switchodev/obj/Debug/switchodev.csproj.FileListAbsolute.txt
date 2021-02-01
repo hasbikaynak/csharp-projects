@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\switchodev\bin\Debug\switchodev.exe.config
+C:\Users\mhasb\Source\Repos\switchodev\bin\Debug\switchodev.exe
+C:\Users\mhasb\Source\Repos\switchodev\bin\Debug\switchodev.pdb
+C:\Users\mhasb\Source\Repos\switchodev\obj\Debug\switchodev.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\switchodev\obj\Debug\switchodev.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\switchodev\obj\Debug\switchodev.exe
+C:\Users\mhasb\Source\Repos\switchodev\obj\Debug\switchodev.pdb

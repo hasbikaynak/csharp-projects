@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\generic siniflar ne degildir detayli inceleme\bin\Debug\generic siniflar ne degildir detayli inceleme.exe.config
+C:\Users\mhasb\Source\Repos\netframework\generic siniflar ne degildir detayli inceleme\bin\Debug\generic siniflar ne degildir detayli inceleme.exe
+C:\Users\mhasb\Source\Repos\netframework\generic siniflar ne degildir detayli inceleme\bin\Debug\generic siniflar ne degildir detayli inceleme.pdb
+C:\Users\mhasb\Source\Repos\netframework\generic siniflar ne degildir detayli inceleme\obj\Debug\generic siniflar ne degildir detayli inceleme.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\generic siniflar ne degildir detayli inceleme\obj\Debug\generic siniflar ne degildir detayli inceleme.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\generic siniflar ne degildir detayli inceleme\obj\Debug\generic siniflar ne degildir detayli inceleme.exe
+C:\Users\mhasb\Source\Repos\netframework\generic siniflar ne degildir detayli inceleme\obj\Debug\generic siniflar ne degildir detayli inceleme.pdb

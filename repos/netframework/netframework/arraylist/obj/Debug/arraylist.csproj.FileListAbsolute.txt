@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\arraylist\bin\Debug\arraylist.exe.config
+C:\Users\mhasb\Source\Repos\netframework\arraylist\bin\Debug\arraylist.exe
+C:\Users\mhasb\Source\Repos\netframework\arraylist\bin\Debug\arraylist.pdb
+C:\Users\mhasb\Source\Repos\netframework\arraylist\obj\Debug\arraylist.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\arraylist\obj\Debug\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\arraylist\obj\Debug\arraylist.exe
+C:\Users\mhasb\Source\Repos\netframework\arraylist\obj\Debug\arraylist.pdb

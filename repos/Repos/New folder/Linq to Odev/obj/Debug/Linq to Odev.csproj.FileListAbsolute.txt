@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\bin\Debug\Linq to Odev.exe.config
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\bin\Debug\Linq to Odev.exe
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\bin\Debug\Linq to Odev.pdb
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\bin\Debug\FakeData.dll
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\bin\Debug\FakeData.pdb
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\obj\Debug\Linq to Odev.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\obj\Debug\Linq to Odev.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\obj\Debug\Linq to Odev.csproj.CopyComplete
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\obj\Debug\Linq to Odev.exe
+C:\Users\mhasb\Source\Repos\New folder\Linq to Odev\obj\Debug\Linq to Odev.pdb

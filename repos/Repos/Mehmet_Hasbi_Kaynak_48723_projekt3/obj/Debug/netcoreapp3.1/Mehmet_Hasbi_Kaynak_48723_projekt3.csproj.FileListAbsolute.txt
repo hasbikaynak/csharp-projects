@@ -1,0 +1,13 @@
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\bin\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.exe
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\bin\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.deps.json
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\bin\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.runtimeconfig.json
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\bin\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.runtimeconfig.dev.json
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\bin\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.dll
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\bin\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.pdb
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\obj\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\obj\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.AssemblyInfoInputs.cache
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\obj\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.AssemblyInfo.cs
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\obj\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\obj\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.dll
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\obj\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.pdb
+C:\Users\mhasb\Source\Repos\Mehmet_Hasbi_Kaynak_48723_projekt3\obj\Debug\netcoreapp3.1\Mehmet_Hasbi_Kaynak_48723_projekt3.genruntimeconfig.cache

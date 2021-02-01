@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\bin\Debug\form applicationa giris 4.exe.config
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\bin\Debug\form applicationa giris 4.exe
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\bin\Debug\form applicationa giris 4.pdb
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\obj\Debug\form applicationa giris 4.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\obj\Debug\form_applicationa_giris_4.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\obj\Debug\form_applicationa_giris_4.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\obj\Debug\form applicationa giris 4.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\obj\Debug\form applicationa giris 4.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\obj\Debug\form applicationa giris 4.exe
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 4\obj\Debug\form applicationa giris 4.pdb

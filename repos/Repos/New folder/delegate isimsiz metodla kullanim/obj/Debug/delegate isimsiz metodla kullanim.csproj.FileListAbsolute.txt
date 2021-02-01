@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\New folder\delegate isimsiz metodla kullanim\bin\Debug\delegate isimsiz metodla kullanim.exe.config
+C:\Users\mhasb\Source\Repos\New folder\delegate isimsiz metodla kullanim\bin\Debug\delegate isimsiz metodla kullanim.exe
+C:\Users\mhasb\Source\Repos\New folder\delegate isimsiz metodla kullanim\bin\Debug\delegate isimsiz metodla kullanim.pdb
+C:\Users\mhasb\Source\Repos\New folder\delegate isimsiz metodla kullanim\obj\Debug\delegate isimsiz metodla kullanim.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\delegate isimsiz metodla kullanim\obj\Debug\delegate isimsiz metodla kullanim.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\delegate isimsiz metodla kullanim\obj\Debug\delegate isimsiz metodla kullanim.exe
+C:\Users\mhasb\Source\Repos\New folder\delegate isimsiz metodla kullanim\obj\Debug\delegate isimsiz metodla kullanim.pdb

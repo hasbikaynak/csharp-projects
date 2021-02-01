@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\bin\Debug\combobox detayli inceleme.exe.config
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\bin\Debug\combobox detayli inceleme.exe
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\bin\Debug\combobox detayli inceleme.pdb
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\obj\Debug\combobox detayli inceleme.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\obj\Debug\combobox_detayli_inceleme.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\obj\Debug\combobox_detayli_inceleme.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\obj\Debug\combobox detayli inceleme.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\obj\Debug\combobox detayli inceleme.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\obj\Debug\combobox detayli inceleme.exe
+C:\Users\mhasb\Source\Repos\netframework\combobox detayli inceleme\obj\Debug\combobox detayli inceleme.pdb

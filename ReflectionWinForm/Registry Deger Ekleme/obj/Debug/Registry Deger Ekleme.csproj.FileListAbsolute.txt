@@ -1,0 +1,7 @@
+C:\Users\CEM\source\repos\ReflectionWinForm\Registry Deger Ekleme\bin\Debug\Registry Deger Ekleme.exe.config
+C:\Users\CEM\source\repos\ReflectionWinForm\Registry Deger Ekleme\bin\Debug\Registry Deger Ekleme.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\Registry Deger Ekleme\bin\Debug\Registry Deger Ekleme.pdb
+C:\Users\CEM\source\repos\ReflectionWinForm\Registry Deger Ekleme\obj\Debug\Registry Deger Ekleme.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\Registry Deger Ekleme\obj\Debug\Registry Deger Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\Registry Deger Ekleme\obj\Debug\Registry Deger Ekleme.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\Registry Deger Ekleme\obj\Debug\Registry Deger Ekleme.pdb

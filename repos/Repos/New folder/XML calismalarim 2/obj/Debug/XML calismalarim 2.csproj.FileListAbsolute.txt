@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 2\bin\Debug\XML calismalarim 2.exe.config
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 2\bin\Debug\XML calismalarim 2.exe
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 2\bin\Debug\XML calismalarim 2.pdb
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 2\obj\Debug\XML calismalarim 2.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 2\obj\Debug\XML calismalarim 2.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 2\obj\Debug\XML calismalarim 2.exe
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 2\obj\Debug\XML calismalarim 2.pdb

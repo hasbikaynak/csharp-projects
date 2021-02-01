@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\dowhile\bin\Debug\dowhile.exe.config
+C:\Users\mhasb\Source\Repos\netframework\dowhile\bin\Debug\dowhile.exe
+C:\Users\mhasb\Source\Repos\netframework\dowhile\bin\Debug\dowhile.pdb
+C:\Users\mhasb\Source\Repos\netframework\dowhile\obj\Debug\dowhile.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\dowhile\obj\Debug\dowhile.exe
+C:\Users\mhasb\Source\Repos\netframework\dowhile\obj\Debug\dowhile.pdb

@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\array\bin\Debug\array.exe.config
+C:\Users\mhasb\Source\Repos\netframework\array\bin\Debug\array.exe
+C:\Users\mhasb\Source\Repos\netframework\array\bin\Debug\array.pdb
+C:\Users\mhasb\Source\Repos\netframework\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\array\obj\Debug\array.exe
+C:\Users\mhasb\Source\Repos\netframework\array\obj\Debug\array.pdb
+C:\Users\mhasb\Source\Repos\netframework\array\obj\Debug\array.csprojAssemblyReference.cache

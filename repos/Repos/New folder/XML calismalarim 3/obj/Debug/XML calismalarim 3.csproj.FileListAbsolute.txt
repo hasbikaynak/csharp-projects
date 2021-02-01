@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\bin\Debug\XML calismalarim 3.exe.config
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\bin\Debug\XML calismalarim 3.exe
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\bin\Debug\XML calismalarim 3.pdb
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\bin\Debug\FakeData.dll
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\bin\Debug\FakeData.pdb
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\obj\Debug\XML calismalarim 3.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\obj\Debug\XML calismalarim 3.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\obj\Debug\XML calismalarim 3.csproj.CopyComplete
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\obj\Debug\XML calismalarim 3.exe
+C:\Users\mhasb\Source\Repos\New folder\XML calismalarim 3\obj\Debug\XML calismalarim 3.pdb

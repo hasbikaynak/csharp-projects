@@ -1,0 +1,5 @@
+C:\Users\mhasb\Source\Repos\MyDrawing\obj\Debug\MyDrawing.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\MyDrawing\obj\Debug\MyDrawing.Form1.resources
+C:\Users\mhasb\Source\Repos\MyDrawing\obj\Debug\MyDrawing.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\MyDrawing\obj\Debug\MyDrawing.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\MyDrawing\obj\Debug\MyDrawing.csproj.CoreCompileInputs.cache

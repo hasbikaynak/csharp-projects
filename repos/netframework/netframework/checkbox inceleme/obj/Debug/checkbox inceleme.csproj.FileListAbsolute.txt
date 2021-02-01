@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\bin\Debug\checkbox inceleme.exe.config
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\bin\Debug\checkbox inceleme.exe
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\bin\Debug\checkbox inceleme.pdb
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\obj\Debug\checkbox inceleme.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\obj\Debug\checkbox_inceleme.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\obj\Debug\checkbox_inceleme.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\obj\Debug\checkbox inceleme.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\obj\Debug\checkbox inceleme.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\obj\Debug\checkbox inceleme.exe
+C:\Users\mhasb\Source\Repos\netframework\checkbox inceleme\obj\Debug\checkbox inceleme.pdb

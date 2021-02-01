@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\forsonsuzdongu\bin\Debug\forsonsuzdongu.exe.config
+C:\Users\mhasb\Source\Repos\netframework\forsonsuzdongu\bin\Debug\forsonsuzdongu.exe
+C:\Users\mhasb\Source\Repos\netframework\forsonsuzdongu\bin\Debug\forsonsuzdongu.pdb
+C:\Users\mhasb\Source\Repos\netframework\forsonsuzdongu\obj\Debug\forsonsuzdongu.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\forsonsuzdongu\obj\Debug\forsonsuzdongu.exe
+C:\Users\mhasb\Source\Repos\netframework\forsonsuzdongu\obj\Debug\forsonsuzdongu.pdb
+C:\Users\mhasb\Source\Repos\netframework\forsonsuzdongu\obj\Debug\forsonsuzdongu.csprojAssemblyReference.cache

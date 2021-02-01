@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\localfuncktions\bin\Debug\localfuncktions.exe.config
+C:\Users\mhasb\Source\Repos\netframework\localfuncktions\bin\Debug\localfuncktions.exe
+C:\Users\mhasb\Source\Repos\netframework\localfuncktions\bin\Debug\localfuncktions.pdb
+C:\Users\mhasb\Source\Repos\netframework\localfuncktions\obj\Debug\localfuncktions.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\localfuncktions\obj\Debug\localfuncktions.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\localfuncktions\obj\Debug\localfuncktions.exe
+C:\Users\mhasb\Source\Repos\netframework\localfuncktions\obj\Debug\localfuncktions.pdb

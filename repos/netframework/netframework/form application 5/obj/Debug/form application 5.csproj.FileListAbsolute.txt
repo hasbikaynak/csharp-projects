@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\netframework\form application 5\bin\Debug\form application 5.exe.config
+C:\Users\mhasb\Source\Repos\netframework\form application 5\bin\Debug\form application 5.exe
+C:\Users\mhasb\Source\Repos\netframework\form application 5\bin\Debug\form application 5.pdb
+C:\Users\mhasb\Source\Repos\netframework\form application 5\obj\Debug\form application 5.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\form application 5\obj\Debug\form_application_5.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\form application 5\obj\Debug\form_application_5.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\form application 5\obj\Debug\form application 5.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\form application 5\obj\Debug\form application 5.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\form application 5\obj\Debug\form application 5.exe
+C:\Users\mhasb\Source\Repos\netframework\form application 5\obj\Debug\form application 5.pdb

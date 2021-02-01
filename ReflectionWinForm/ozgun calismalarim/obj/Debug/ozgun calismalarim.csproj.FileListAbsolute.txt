@@ -1,0 +1,7 @@
+C:\Users\CEM\source\repos\ReflectionWinForm\ozgun calismalarim\bin\Debug\ozgun calismalarim.exe.config
+C:\Users\CEM\source\repos\ReflectionWinForm\ozgun calismalarim\bin\Debug\ozgun calismalarim.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\ozgun calismalarim\bin\Debug\ozgun calismalarim.pdb
+C:\Users\CEM\source\repos\ReflectionWinForm\ozgun calismalarim\obj\Debug\ozgun calismalarim.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\ozgun calismalarim\obj\Debug\ozgun calismalarim.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\ozgun calismalarim\obj\Debug\ozgun calismalarim.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\ozgun calismalarim\obj\Debug\ozgun calismalarim.pdb

@@ -1,0 +1,13 @@
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\bin\Debug\netcoreapp3.1\Mylibrary.exe
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\bin\Debug\netcoreapp3.1\Mylibrary.deps.json
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\bin\Debug\netcoreapp3.1\Mylibrary.runtimeconfig.json
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\bin\Debug\netcoreapp3.1\Mylibrary.runtimeconfig.dev.json
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\bin\Debug\netcoreapp3.1\Mylibrary.dll
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\bin\Debug\netcoreapp3.1\Mylibrary.pdb
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\obj\Debug\netcoreapp3.1\Mylibrary.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\obj\Debug\netcoreapp3.1\Mylibrary.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\obj\Debug\netcoreapp3.1\Mylibrary.AssemblyInfo.cs
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\obj\Debug\netcoreapp3.1\Mylibrary.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\obj\Debug\netcoreapp3.1\Mylibrary.dll
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\obj\Debug\netcoreapp3.1\Mylibrary.pdb
+C:\Users\CEM\source\repos\repos\Repos\New folder\Mylibrary\obj\Debug\netcoreapp3.1\Mylibrary.genruntimeconfig.cache

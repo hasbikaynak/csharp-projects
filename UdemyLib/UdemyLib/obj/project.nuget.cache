@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXA/YoCHWXqXwn5UA45Uyq73U1OR1z4nhes9/q/UMDm72ZtXK8XLxrOoWXAb4yHiXh1RWd0jKU9iJAh3N3VA7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CEM\\source\\repos\\UdemyLib\\UdemyLib\\UdemyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CEM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CEM\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

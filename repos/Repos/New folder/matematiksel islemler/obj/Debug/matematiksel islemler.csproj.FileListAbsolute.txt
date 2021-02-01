@@ -1,0 +1,6 @@
+C:\Users\mhasb\Source\Repos\New folder\matematiksel islemler\bin\Debug\matematiksel islemler.dll
+C:\Users\mhasb\Source\Repos\New folder\matematiksel islemler\bin\Debug\matematiksel islemler.pdb
+C:\Users\mhasb\Source\Repos\New folder\matematiksel islemler\obj\Debug\matematiksel islemler.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\matematiksel islemler\obj\Debug\matematiksel islemler.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\matematiksel islemler\obj\Debug\matematiksel islemler.dll
+C:\Users\mhasb\Source\Repos\New folder\matematiksel islemler\obj\Debug\matematiksel islemler.pdb

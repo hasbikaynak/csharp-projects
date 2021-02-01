@@ -1,0 +1,11 @@
+C:\Users\mhasb\Source\Repos\netframework\form application 6\bin\Debug\form application 6.exe.config
+C:\Users\mhasb\Source\Repos\netframework\form application 6\bin\Debug\form application 6.exe
+C:\Users\mhasb\Source\Repos\netframework\form application 6\bin\Debug\form application 6.pdb
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form_application_6.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form_application_6.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form application 6.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form application 6.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form application 6.exe
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form application 6.pdb
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form application 6.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\form application 6\obj\Debug\form_application_6.onizleme_ekrani.resources

@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\virtual ve override metodlari\bin\Debug\virtual ve override metodlari.exe.config
+C:\Users\mhasb\Source\Repos\netframework\virtual ve override metodlari\bin\Debug\virtual ve override metodlari.exe
+C:\Users\mhasb\Source\Repos\netframework\virtual ve override metodlari\bin\Debug\virtual ve override metodlari.pdb
+C:\Users\mhasb\Source\Repos\netframework\virtual ve override metodlari\obj\Debug\virtual ve override metodlari.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\virtual ve override metodlari\obj\Debug\virtual ve override metodlari.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\virtual ve override metodlari\obj\Debug\virtual ve override metodlari.exe
+C:\Users\mhasb\Source\Repos\netframework\virtual ve override metodlari\obj\Debug\virtual ve override metodlari.pdb

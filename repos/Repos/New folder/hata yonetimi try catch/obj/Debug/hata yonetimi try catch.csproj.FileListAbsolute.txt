@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\New folder\hata yonetimi try catch\bin\Debug\hata yonetimi try catch.exe.config
+C:\Users\mhasb\Source\Repos\New folder\hata yonetimi try catch\bin\Debug\hata yonetimi try catch.exe
+C:\Users\mhasb\Source\Repos\New folder\hata yonetimi try catch\bin\Debug\hata yonetimi try catch.pdb
+C:\Users\mhasb\Source\Repos\New folder\hata yonetimi try catch\obj\Debug\hata yonetimi try catch.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\hata yonetimi try catch\obj\Debug\hata yonetimi try catch.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\hata yonetimi try catch\obj\Debug\hata yonetimi try catch.exe
+C:\Users\mhasb\Source\Repos\New folder\hata yonetimi try catch\obj\Debug\hata yonetimi try catch.pdb

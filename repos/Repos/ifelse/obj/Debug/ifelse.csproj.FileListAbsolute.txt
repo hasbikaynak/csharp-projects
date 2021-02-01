@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\ifelse\bin\Debug\ifelse.exe.config
+C:\Users\mhasb\Source\Repos\ifelse\bin\Debug\ifelse.exe
+C:\Users\mhasb\Source\Repos\ifelse\bin\Debug\ifelse.pdb
+C:\Users\mhasb\Source\Repos\ifelse\obj\Debug\ifelse.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\ifelse\obj\Debug\ifelse.exe
+C:\Users\mhasb\Source\Repos\ifelse\obj\Debug\ifelse.pdb

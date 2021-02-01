@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    
+    <title>javascript - array</title>
+<script type="text/javascript">
+   
+    var array1 = ["pies", "kot" , "chomik" , "szynszyl"];
+
+</script>
+</head>
+<body>
+    <script>
+        var i;
+        for (i = 0; i < array1.length; i++)
+            document.writeln(array1[i]);
+        document.write("<br/>" + array1.toString());
+        document.write("<br/>" + array1.join(";"));
+        array1.push("kon");
+        document.write("<br/>" + array1.toString());
+        array1.unshift("mysz");
+        document.write("<br/>" + array1.toString());
+        array1.pop();
+        document.write("<br/>" + array1.toString());
+        array1.shift();
+        document.write("<br/>" + array1.toString());
+
+
+
+
+    </script>
+
+
+</body>
+</html>

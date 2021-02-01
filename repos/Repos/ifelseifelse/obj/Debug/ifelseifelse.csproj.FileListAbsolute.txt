@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\ifelseifelse\bin\Debug\ifelseifelse.exe.config
+C:\Users\mhasb\Source\Repos\ifelseifelse\bin\Debug\ifelseifelse.exe
+C:\Users\mhasb\Source\Repos\ifelseifelse\bin\Debug\ifelseifelse.pdb
+C:\Users\mhasb\Source\Repos\ifelseifelse\obj\Debug\ifelseifelse.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\ifelseifelse\obj\Debug\ifelseifelse.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\ifelseifelse\obj\Debug\ifelseifelse.exe
+C:\Users\mhasb\Source\Repos\ifelseifelse\obj\Debug\ifelseifelse.pdb

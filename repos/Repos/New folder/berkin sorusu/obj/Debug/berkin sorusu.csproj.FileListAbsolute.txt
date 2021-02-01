@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\New folder\berkin sorusu\obj\Debug\berkin sorusu.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\berkin sorusu\obj\Debug\berkin sorusu.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\berkin sorusu\bin\Debug\berkin sorusu.exe.config
+C:\Users\mhasb\Source\Repos\New folder\berkin sorusu\bin\Debug\berkin sorusu.exe
+C:\Users\mhasb\Source\Repos\New folder\berkin sorusu\bin\Debug\berkin sorusu.pdb
+C:\Users\mhasb\Source\Repos\New folder\berkin sorusu\obj\Debug\berkin sorusu.exe
+C:\Users\mhasb\Source\Repos\New folder\berkin sorusu\obj\Debug\berkin sorusu.pdb

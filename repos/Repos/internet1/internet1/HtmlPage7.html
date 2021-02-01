@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        img {
+            width: 100px;
+        }
+    </style>
+    <script>
+        var carsArray = new Array(6);
+        var i;
+        for (var i = 0; i < carsArray.length; i++) {
+            carsArray[i] = new Image();
+            carsArray[i].src = "pictures/img" + (i + 1).toString() + ".png";
+            
+
+        }
+    </script> 
+            
+</head>
+<body>
+
+    <img id="img0" />
+    <img id="img1" />
+    <img id="img2" />
+    <img id="img3" />
+    <img id="img4" />
+    <img id="img5" />
+    
+
+
+    <script>
+        var i;
+        for (var i = 0; i < carsArray.length; i++) 
+
+        
+        document.getElementById("img" + i.toString()).src = carsArray[i].src;
+    </script>
+</body>
+</html>

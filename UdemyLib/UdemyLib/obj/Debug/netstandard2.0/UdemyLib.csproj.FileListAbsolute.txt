@@ -1,0 +1,9 @@
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\bin\Debug\netstandard2.0\UdemyLib.deps.json
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\bin\Debug\netstandard2.0\UdemyLib.dll
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\bin\Debug\netstandard2.0\UdemyLib.pdb
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.AssemblyInfo.cs
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.dll
+C:\Users\CEM\source\repos\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.pdb

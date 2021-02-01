@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\convertileparsearasindakifark\bin\Debug\convertileparsearasindakifark.exe.config
+C:\Users\mhasb\Source\Repos\convertileparsearasindakifark\bin\Debug\convertileparsearasindakifark.exe
+C:\Users\mhasb\Source\Repos\convertileparsearasindakifark\bin\Debug\convertileparsearasindakifark.pdb
+C:\Users\mhasb\Source\Repos\convertileparsearasindakifark\obj\Debug\convertileparsearasindakifark.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\convertileparsearasindakifark\obj\Debug\convertileparsearasindakifark.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\convertileparsearasindakifark\obj\Debug\convertileparsearasindakifark.exe
+C:\Users\mhasb\Source\Repos\convertileparsearasindakifark\obj\Debug\convertileparsearasindakifark.pdb

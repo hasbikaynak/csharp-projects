@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\calismalarim\bin\Debug\calismalarim.exe.config
+C:\Users\mhasb\Source\Repos\netframework\calismalarim\bin\Debug\calismalarim.exe
+C:\Users\mhasb\Source\Repos\netframework\calismalarim\bin\Debug\calismalarim.pdb
+C:\Users\mhasb\Source\Repos\netframework\calismalarim\obj\Debug\calismalarim.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\calismalarim\obj\Debug\calismalarim.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\calismalarim\obj\Debug\calismalarim.exe
+C:\Users\mhasb\Source\Repos\netframework\calismalarim\obj\Debug\calismalarim.pdb

@@ -1,0 +1,15 @@
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\bin\Debug\netcoreapp3.1\Json okuma.exe
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\bin\Debug\netcoreapp3.1\Json okuma.deps.json
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\bin\Debug\netcoreapp3.1\Json okuma.runtimeconfig.json
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\bin\Debug\netcoreapp3.1\Json okuma.runtimeconfig.dev.json
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\bin\Debug\netcoreapp3.1\Json okuma.dll
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\bin\Debug\netcoreapp3.1\Json okuma.pdb
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.AssemblyInfoInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.AssemblyInfo.cs
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.csproj.CopyComplete
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.dll
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.pdb
+C:\Users\mhasb\Source\Repos\New folder\Json okuma\obj\Debug\netcoreapp3.1\Json okuma.genruntimeconfig.cache

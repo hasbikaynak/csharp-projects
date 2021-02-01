@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\sortedlist\bin\Debug\sortedlist.exe.config
+C:\Users\mhasb\Source\Repos\netframework\sortedlist\bin\Debug\sortedlist.exe
+C:\Users\mhasb\Source\Repos\netframework\sortedlist\bin\Debug\sortedlist.pdb
+C:\Users\mhasb\Source\Repos\netframework\sortedlist\obj\Debug\sortedlist.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\sortedlist\obj\Debug\sortedlist.exe
+C:\Users\mhasb\Source\Repos\netframework\sortedlist\obj\Debug\sortedlist.pdb
+C:\Users\mhasb\Source\Repos\netframework\sortedlist\obj\Debug\sortedlist.csprojAssemblyReference.cache

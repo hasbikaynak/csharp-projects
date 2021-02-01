@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\generic collections 2\bin\Debug\generic collections 2.exe.config
+C:\Users\mhasb\Source\Repos\netframework\generic collections 2\bin\Debug\generic collections 2.exe
+C:\Users\mhasb\Source\Repos\netframework\generic collections 2\bin\Debug\generic collections 2.pdb
+C:\Users\mhasb\Source\Repos\netframework\generic collections 2\obj\Debug\generic collections 2.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\generic collections 2\obj\Debug\generic collections 2.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\generic collections 2\obj\Debug\generic collections 2.exe
+C:\Users\mhasb\Source\Repos\netframework\generic collections 2\obj\Debug\generic collections 2.pdb

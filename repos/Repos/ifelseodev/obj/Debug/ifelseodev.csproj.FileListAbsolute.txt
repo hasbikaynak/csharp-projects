@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\ifelseodev\bin\Debug\ifelseodev.exe.config
+C:\Users\mhasb\Source\Repos\ifelseodev\bin\Debug\ifelseodev.exe
+C:\Users\mhasb\Source\Repos\ifelseodev\bin\Debug\ifelseodev.pdb
+C:\Users\mhasb\Source\Repos\ifelseodev\obj\Debug\ifelseodev.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\ifelseodev\obj\Debug\ifelseodev.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\ifelseodev\obj\Debug\ifelseodev.exe
+C:\Users\mhasb\Source\Repos\ifelseodev\obj\Debug\ifelseodev.pdb

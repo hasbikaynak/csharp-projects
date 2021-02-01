@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mehmet_Hasbi_Kaynak_48723_projekt3/1.0.0": {
+        "runtime": {
+          "Mehmet_Hasbi_Kaynak_48723_projekt3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mehmet_Hasbi_Kaynak_48723_projekt3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

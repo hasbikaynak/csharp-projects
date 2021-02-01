@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\metotlar genel tanim (main metodu)\bin\Debug\metotlar genel tanim (main metodu).exe.config
+C:\Users\mhasb\Source\Repos\netframework\metotlar genel tanim (main metodu)\bin\Debug\metotlar genel tanim (main metodu).exe
+C:\Users\mhasb\Source\Repos\netframework\metotlar genel tanim (main metodu)\bin\Debug\metotlar genel tanim (main metodu).pdb
+C:\Users\mhasb\Source\Repos\netframework\metotlar genel tanim (main metodu)\obj\Debug\metotlar genel tanim (main metodu).csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\metotlar genel tanim (main metodu)\obj\Debug\metotlar genel tanim (main metodu).csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\metotlar genel tanim (main metodu)\obj\Debug\metotlar genel tanim (main metodu).exe
+C:\Users\mhasb\Source\Repos\netframework\metotlar genel tanim (main metodu)\obj\Debug\metotlar genel tanim (main metodu).pdb

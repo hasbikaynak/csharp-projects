@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\bin\Debug\linq nedir.exe.config
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\bin\Debug\linq nedir.exe
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\bin\Debug\linq nedir.pdb
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\bin\Debug\FakeData.dll
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\bin\Debug\FakeData.pdb
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\obj\Debug\linq nedir.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\obj\Debug\linq nedir.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\obj\Debug\linq nedir.csproj.CopyComplete
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\obj\Debug\linq nedir.exe
+C:\Users\mhasb\Source\Repos\New folder\linq nedir\obj\Debug\linq nedir.pdb

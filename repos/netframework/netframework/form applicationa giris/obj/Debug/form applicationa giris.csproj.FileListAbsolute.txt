@@ -1,0 +1,11 @@
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\bin\Debug\form applicationa giris.exe.config
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\bin\Debug\form applicationa giris.exe
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\bin\Debug\form applicationa giris.pdb
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form applicationa giris.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form_applicationa_giris.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form_applicationa_giris.merabatelevoleformu.resources
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form_applicationa_giris.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form applicationa giris.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form applicationa giris.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form applicationa giris.exe
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris\obj\Debug\form applicationa giris.pdb

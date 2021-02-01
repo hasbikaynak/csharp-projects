@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>JavaScript - array </title>
+    <script type="text/javascript">
+        var array2 = new Array('mercedes', 'bmw', 'audi', 'fiat');
+
+
+    </script>
+</head>
+<body>
+    <table id="tab1 " style="border:solid 1px red">
+
+        <tr id="row1">
+        </tr>
+
+
+    </table>
+
+    <script>
+        var i;
+        for (i = 0; i < array2.length; i++)
+            document.getElementById("row1").innerHTML +=
+                "<td style=\"border: solid 1px green; width:50px\">" + array2[i] + "</td>";
+
+
+
+    </script>
+
+</body>
+</html>

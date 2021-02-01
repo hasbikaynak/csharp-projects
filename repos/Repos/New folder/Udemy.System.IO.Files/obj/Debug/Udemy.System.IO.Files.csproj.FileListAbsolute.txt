@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\New folder\Udemy.System.IO.Files\bin\Debug\Udemy.System.IO.Files.exe.config
+C:\Users\mhasb\Source\Repos\New folder\Udemy.System.IO.Files\bin\Debug\Udemy.System.IO.Files.exe
+C:\Users\mhasb\Source\Repos\New folder\Udemy.System.IO.Files\bin\Debug\Udemy.System.IO.Files.pdb
+C:\Users\mhasb\Source\Repos\New folder\Udemy.System.IO.Files\obj\Debug\Udemy.System.IO.Files.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\Udemy.System.IO.Files\obj\Debug\Udemy.System.IO.Files.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\Udemy.System.IO.Files\obj\Debug\Udemy.System.IO.Files.exe
+C:\Users\mhasb\Source\Repos\New folder\Udemy.System.IO.Files\obj\Debug\Udemy.System.IO.Files.pdb

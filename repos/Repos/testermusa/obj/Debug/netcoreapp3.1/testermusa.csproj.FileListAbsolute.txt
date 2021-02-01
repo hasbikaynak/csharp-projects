@@ -1,0 +1,13 @@
+C:\Users\mhasb\Source\Repos\testermusa\bin\Debug\netcoreapp3.1\testermusa.exe
+C:\Users\mhasb\Source\Repos\testermusa\bin\Debug\netcoreapp3.1\testermusa.deps.json
+C:\Users\mhasb\Source\Repos\testermusa\bin\Debug\netcoreapp3.1\testermusa.runtimeconfig.json
+C:\Users\mhasb\Source\Repos\testermusa\bin\Debug\netcoreapp3.1\testermusa.runtimeconfig.dev.json
+C:\Users\mhasb\Source\Repos\testermusa\bin\Debug\netcoreapp3.1\testermusa.dll
+C:\Users\mhasb\Source\Repos\testermusa\bin\Debug\netcoreapp3.1\testermusa.pdb
+C:\Users\mhasb\Source\Repos\testermusa\obj\Debug\netcoreapp3.1\testermusa.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\testermusa\obj\Debug\netcoreapp3.1\testermusa.AssemblyInfoInputs.cache
+C:\Users\mhasb\Source\Repos\testermusa\obj\Debug\netcoreapp3.1\testermusa.AssemblyInfo.cs
+C:\Users\mhasb\Source\Repos\testermusa\obj\Debug\netcoreapp3.1\testermusa.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\testermusa\obj\Debug\netcoreapp3.1\testermusa.dll
+C:\Users\mhasb\Source\Repos\testermusa\obj\Debug\netcoreapp3.1\testermusa.pdb
+C:\Users\mhasb\Source\Repos\testermusa\obj\Debug\netcoreapp3.1\testermusa.genruntimeconfig.cache

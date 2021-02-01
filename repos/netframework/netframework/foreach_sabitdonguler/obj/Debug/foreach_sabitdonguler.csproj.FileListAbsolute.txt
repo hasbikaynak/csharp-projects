@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\foreach_sabitdonguler\bin\Debug\foreach_sabitdonguler.exe.config
+C:\Users\mhasb\Source\Repos\netframework\foreach_sabitdonguler\bin\Debug\foreach_sabitdonguler.exe
+C:\Users\mhasb\Source\Repos\netframework\foreach_sabitdonguler\bin\Debug\foreach_sabitdonguler.pdb
+C:\Users\mhasb\Source\Repos\netframework\foreach_sabitdonguler\obj\Debug\foreach_sabitdonguler.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\foreach_sabitdonguler\obj\Debug\foreach_sabitdonguler.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\foreach_sabitdonguler\obj\Debug\foreach_sabitdonguler.exe
+C:\Users\mhasb\Source\Repos\netframework\foreach_sabitdonguler\obj\Debug\foreach_sabitdonguler.pdb

@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\karisik odev 2\bin\Debug\karisik odev 2.exe.config
+C:\Users\mhasb\Source\Repos\netframework\karisik odev 2\bin\Debug\karisik odev 2.exe
+C:\Users\mhasb\Source\Repos\netframework\karisik odev 2\bin\Debug\karisik odev 2.pdb
+C:\Users\mhasb\Source\Repos\netframework\karisik odev 2\obj\Debug\karisik odev 2.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\karisik odev 2\obj\Debug\karisik odev 2.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\karisik odev 2\obj\Debug\karisik odev 2.exe
+C:\Users\mhasb\Source\Repos\netframework\karisik odev 2\obj\Debug\karisik odev 2.pdb

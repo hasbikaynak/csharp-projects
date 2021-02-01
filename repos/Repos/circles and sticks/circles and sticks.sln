@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circles and sticks", "circles and sticks.csproj", "{A78D7D79-ECA6-48B9-AE00-70D5CCE53499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78D7D79-ECA6-48B9-AE00-70D5CCE53499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78D7D79-ECA6-48B9-AE00-70D5CCE53499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78D7D79-ECA6-48B9-AE00-70D5CCE53499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78D7D79-ECA6-48B9-AE00-70D5CCE53499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D7397C-4E24-4D58-B346-A7399C9B69FF}
+	EndGlobalSection
+EndGlobal

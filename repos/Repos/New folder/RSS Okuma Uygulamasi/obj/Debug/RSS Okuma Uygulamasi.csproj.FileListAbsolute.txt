@@ -1,0 +1,20 @@
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\bin\Debug\RSS Okuma Uygulamasi.exe.config
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\bin\Debug\RSS Okuma Uygulamasi.exe
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\bin\Debug\RSS Okuma Uygulamasi.pdb
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS_Okuma_Uygulamasi.Form1.resources
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS_Okuma_Uygulamasi.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.exe
+C:\Users\mhasb\Source\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.pdb
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\bin\Debug\RSS Okuma Uygulamasi.exe.config
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\bin\Debug\RSS Okuma Uygulamasi.exe
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\bin\Debug\RSS Okuma Uygulamasi.pdb
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS_Okuma_Uygulamasi.Form1.resources
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS_Okuma_Uygulamasi.Properties.Resources.resources
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.csproj.GenerateResource.cache
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.exe
+C:\Users\CEM\source\repos\repos\Repos\New folder\RSS Okuma Uygulamasi\obj\Debug\RSS Okuma Uygulamasi.pdb

@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\for\bin\Debug\@for.exe.config
+C:\Users\mhasb\Source\Repos\netframework\for\bin\Debug\@for.exe
+C:\Users\mhasb\Source\Repos\netframework\for\bin\Debug\@for.pdb
+C:\Users\mhasb\Source\Repos\netframework\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\for\obj\Debug\@for.exe
+C:\Users\mhasb\Source\Repos\netframework\for\obj\Debug\@for.pdb
+C:\Users\mhasb\Source\Repos\netframework\for\obj\Debug\for.csprojAssemblyReference.cache

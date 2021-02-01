@@ -1,0 +1,11 @@
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\bin\Debug\Listbox inceleme form application.exe.config
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\bin\Debug\Listbox inceleme form application.exe
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\bin\Debug\Listbox inceleme form application.pdb
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox inceleme form application.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox_inceleme_form_application.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox_inceleme_form_application.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox inceleme form application.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox inceleme form application.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox inceleme form application.exe
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox inceleme form application.pdb
+C:\Users\mhasb\Source\Repos\netframework\Listbox inceleme form application\obj\Debug\Listbox_inceleme_form_application.urunsecimkullanici.resources

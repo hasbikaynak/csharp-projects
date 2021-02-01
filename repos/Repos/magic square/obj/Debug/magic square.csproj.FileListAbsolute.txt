@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\magic square\bin\Debug\magic square.exe.config
+C:\Users\mhasb\Source\Repos\magic square\bin\Debug\magic square.exe
+C:\Users\mhasb\Source\Repos\magic square\bin\Debug\magic square.pdb
+C:\Users\mhasb\Source\Repos\magic square\obj\Debug\magic square.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\magic square\obj\Debug\magic square.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\magic square\obj\Debug\magic square.exe
+C:\Users\mhasb\Source\Repos\magic square\obj\Debug\magic square.pdb

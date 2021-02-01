@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\arraylistdevam\bin\Debug\arraylistdevam.exe.config
+C:\Users\mhasb\Source\Repos\netframework\arraylistdevam\bin\Debug\arraylistdevam.exe
+C:\Users\mhasb\Source\Repos\netframework\arraylistdevam\bin\Debug\arraylistdevam.pdb
+C:\Users\mhasb\Source\Repos\netframework\arraylistdevam\obj\Debug\arraylistdevam.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\arraylistdevam\obj\Debug\arraylistdevam.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\arraylistdevam\obj\Debug\arraylistdevam.exe
+C:\Users\mhasb\Source\Repos\netframework\arraylistdevam\obj\Debug\arraylistdevam.pdb

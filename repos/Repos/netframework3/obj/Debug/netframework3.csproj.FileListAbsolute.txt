@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework3\bin\Debug\netframework3.exe.config
+C:\Users\mhasb\Source\Repos\netframework3\bin\Debug\netframework3.exe
+C:\Users\mhasb\Source\Repos\netframework3\bin\Debug\netframework3.pdb
+C:\Users\mhasb\Source\Repos\netframework3\obj\Debug\netframework3.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework3\obj\Debug\netframework3.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework3\obj\Debug\netframework3.exe
+C:\Users\mhasb\Source\Repos\netframework3\obj\Debug\netframework3.pdb

@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\ref out kullanimi\bin\Debug\ref out kullanimi.exe.config
+C:\Users\mhasb\Source\Repos\netframework\ref out kullanimi\bin\Debug\ref out kullanimi.exe
+C:\Users\mhasb\Source\Repos\netframework\ref out kullanimi\bin\Debug\ref out kullanimi.pdb
+C:\Users\mhasb\Source\Repos\netframework\ref out kullanimi\obj\Debug\ref out kullanimi.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\ref out kullanimi\obj\Debug\ref out kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\ref out kullanimi\obj\Debug\ref out kullanimi.exe
+C:\Users\mhasb\Source\Repos\netframework\ref out kullanimi\obj\Debug\ref out kullanimi.pdb

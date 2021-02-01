@@ -1,0 +1,10 @@
+C:\Users\mhasb\Source\Repos\Circle2\bin\Debug\Circle2.exe.config
+C:\Users\mhasb\Source\Repos\Circle2\bin\Debug\Circle2.exe
+C:\Users\mhasb\Source\Repos\Circle2\bin\Debug\Circle2.pdb
+C:\Users\mhasb\Source\Repos\Circle2\obj\Debug\Circle2.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\Circle2\obj\Debug\Circle2.Form1.resources
+C:\Users\mhasb\Source\Repos\Circle2\obj\Debug\Circle2.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\Circle2\obj\Debug\Circle2.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\Circle2\obj\Debug\Circle2.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\Circle2\obj\Debug\Circle2.exe
+C:\Users\mhasb\Source\Repos\Circle2\obj\Debug\Circle2.pdb

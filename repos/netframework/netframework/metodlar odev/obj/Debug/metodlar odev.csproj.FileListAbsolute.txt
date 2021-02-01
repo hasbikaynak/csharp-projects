@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\metodlar odev\bin\Debug\metodlar odev.exe.config
+C:\Users\mhasb\Source\Repos\netframework\metodlar odev\bin\Debug\metodlar odev.exe
+C:\Users\mhasb\Source\Repos\netframework\metodlar odev\bin\Debug\metodlar odev.pdb
+C:\Users\mhasb\Source\Repos\netframework\metodlar odev\obj\Debug\metodlar odev.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\metodlar odev\obj\Debug\metodlar odev.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\metodlar odev\obj\Debug\metodlar odev.exe
+C:\Users\mhasb\Source\Repos\netframework\metodlar odev\obj\Debug\metodlar odev.pdb

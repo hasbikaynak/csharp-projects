@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\network2\bin\Debug\network2.exe.config
+C:\Users\mhasb\Source\Repos\network2\bin\Debug\network2.exe
+C:\Users\mhasb\Source\Repos\network2\bin\Debug\network2.pdb
+C:\Users\mhasb\Source\Repos\network2\obj\Debug\network2.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\network2\obj\Debug\network2.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\network2\obj\Debug\network2.exe
+C:\Users\mhasb\Source\Repos\network2\obj\Debug\network2.pdb

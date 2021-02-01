@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\New folder\Yenilikler\bin\Debug\Yenilikler.exe.config
+C:\Users\mhasb\Source\Repos\New folder\Yenilikler\bin\Debug\Yenilikler.exe
+C:\Users\mhasb\Source\Repos\New folder\Yenilikler\bin\Debug\Yenilikler.pdb
+C:\Users\mhasb\Source\Repos\New folder\Yenilikler\obj\Debug\Yenilikler.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\Yenilikler\obj\Debug\Yenilikler.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\Yenilikler\obj\Debug\Yenilikler.exe
+C:\Users\mhasb\Source\Repos\New folder\Yenilikler\obj\Debug\Yenilikler.pdb

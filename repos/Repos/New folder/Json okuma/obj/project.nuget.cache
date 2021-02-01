@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oat/4F91tCdOX9SfUaKA8Cu8Yap8BFawy0RW7P1d5FoSC7oqSvJkbw0CO0X+MvQ561i1Ua6Y5nzbXFbyfJBRVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhasb\\Source\\Repos\\New folder\\Json okuma\\Json okuma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhasb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

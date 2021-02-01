@@ -1,0 +1,10 @@
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\bin\Debug\ReflectionWinForm.exe.config
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\bin\Debug\ReflectionWinForm.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\bin\Debug\ReflectionWinForm.pdb
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\obj\Debug\ReflectionWinForm.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\obj\Debug\ReflectionWinForm.Form1.resources
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\obj\Debug\ReflectionWinForm.Properties.Resources.resources
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\obj\Debug\ReflectionWinForm.csproj.GenerateResource.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\obj\Debug\ReflectionWinForm.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\obj\Debug\ReflectionWinForm.exe
+C:\Users\CEM\source\repos\ReflectionWinForm\ReflectionWinForm\obj\Debug\ReflectionWinForm.pdb

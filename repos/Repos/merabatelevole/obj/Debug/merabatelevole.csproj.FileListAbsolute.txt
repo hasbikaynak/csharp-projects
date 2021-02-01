@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\merabatelevole\bin\Debug\merabatelevole.exe.config
+C:\Users\mhasb\Source\Repos\merabatelevole\bin\Debug\merabatelevole.exe
+C:\Users\mhasb\Source\Repos\merabatelevole\bin\Debug\merabatelevole.pdb
+C:\Users\mhasb\Source\Repos\merabatelevole\obj\Debug\merabatelevole.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\merabatelevole\obj\Debug\merabatelevole.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\merabatelevole\obj\Debug\merabatelevole.exe
+C:\Users\mhasb\Source\Repos\merabatelevole\obj\Debug\merabatelevole.pdb

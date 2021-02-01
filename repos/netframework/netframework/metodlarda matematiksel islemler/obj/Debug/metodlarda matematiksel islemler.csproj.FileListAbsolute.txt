@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\metodlarda matematiksel islemler\bin\Debug\metodlarda matematiksel islemler.exe.config
+C:\Users\mhasb\Source\Repos\netframework\metodlarda matematiksel islemler\bin\Debug\metodlarda matematiksel islemler.exe
+C:\Users\mhasb\Source\Repos\netframework\metodlarda matematiksel islemler\bin\Debug\metodlarda matematiksel islemler.pdb
+C:\Users\mhasb\Source\Repos\netframework\metodlarda matematiksel islemler\obj\Debug\metodlarda matematiksel islemler.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\metodlarda matematiksel islemler\obj\Debug\metodlarda matematiksel islemler.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\metodlarda matematiksel islemler\obj\Debug\metodlarda matematiksel islemler.exe
+C:\Users\mhasb\Source\Repos\netframework\metodlarda matematiksel islemler\obj\Debug\metodlarda matematiksel islemler.pdb

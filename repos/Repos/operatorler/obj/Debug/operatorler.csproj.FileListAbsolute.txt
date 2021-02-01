@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\operatorler\bin\Debug\operatorler.exe.config
+C:\Users\mhasb\Source\Repos\operatorler\bin\Debug\operatorler.exe
+C:\Users\mhasb\Source\Repos\operatorler\bin\Debug\operatorler.pdb
+C:\Users\mhasb\Source\Repos\operatorler\obj\Debug\operatorler.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\operatorler\obj\Debug\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\operatorler\obj\Debug\operatorler.exe
+C:\Users\mhasb\Source\Repos\operatorler\obj\Debug\operatorler.pdb

@@ -1,0 +1,28 @@
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\CSV kullanimi.exe.config
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\CSV kullanimi.exe
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\CSV kullanimi.pdb
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\FakeData.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\FakeData.pdb
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\obj\Debug\CSV kullanimi.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\obj\Debug\CSV kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\obj\Debug\CSV kullanimi.csproj.CopyComplete
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\obj\Debug\CSV kullanimi.exe
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\obj\Debug\CSV kullanimi.pdb
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\CsvHelper.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Buffers.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Memory.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\CsvHelper.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Buffers.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Memory.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.ValueTuple.dll
+C:\Users\mhasb\Source\Repos\New folder\CSV kullanimi\bin\Debug\System.ValueTuple.xml

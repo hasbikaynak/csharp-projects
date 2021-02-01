@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Page12</title>
+    <style>
+        img {
+            width: 100px;
+        }
+    </style>
+    <script>
+        var carsArray = new Array(7);
+        var i;
+        for (var i = 0; i < carsArray.length; i++) {
+            carsArray[i] = new Image();
+            carsArray[i].src = "picture/img" + (i + 1).toString() + ".png";
+
+
+        }
+
+    </script>
+</head>
+
+<body>
+
+    <script>
+
+        var i;
+        for (var i = 0; i < carsArray.length; i++) {
+
+            document.write("<img id =\"img" + i.toString() + "\" />");
+
+
+
+            document.getElementById("img" + i.toString()).src = carsArray[i].src;
+        }
+
+
+
+    </script>
+
+</body>
+</html>

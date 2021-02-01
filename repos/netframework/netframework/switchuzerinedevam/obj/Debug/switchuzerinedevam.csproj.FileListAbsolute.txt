@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\switchuzerinedevam\bin\Debug\switchuzerinedevam.exe.config
+C:\Users\mhasb\Source\Repos\netframework\switchuzerinedevam\bin\Debug\switchuzerinedevam.exe
+C:\Users\mhasb\Source\Repos\netframework\switchuzerinedevam\bin\Debug\switchuzerinedevam.pdb
+C:\Users\mhasb\Source\Repos\netframework\switchuzerinedevam\obj\Debug\switchuzerinedevam.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\switchuzerinedevam\obj\Debug\switchuzerinedevam.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\switchuzerinedevam\obj\Debug\switchuzerinedevam.exe
+C:\Users\mhasb\Source\Repos\netframework\switchuzerinedevam\obj\Debug\switchuzerinedevam.pdb

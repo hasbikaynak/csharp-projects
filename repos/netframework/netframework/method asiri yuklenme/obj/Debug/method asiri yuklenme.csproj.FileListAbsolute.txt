@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\netframework\method asiri yuklenme\bin\Debug\method asiri yuklenme.exe.config
+C:\Users\mhasb\Source\Repos\netframework\method asiri yuklenme\bin\Debug\method asiri yuklenme.exe
+C:\Users\mhasb\Source\Repos\netframework\method asiri yuklenme\bin\Debug\method asiri yuklenme.pdb
+C:\Users\mhasb\Source\Repos\netframework\method asiri yuklenme\obj\Debug\method asiri yuklenme.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\method asiri yuklenme\obj\Debug\method asiri yuklenme.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\method asiri yuklenme\obj\Debug\method asiri yuklenme.exe
+C:\Users\mhasb\Source\Repos\netframework\method asiri yuklenme\obj\Debug\method asiri yuklenme.pdb

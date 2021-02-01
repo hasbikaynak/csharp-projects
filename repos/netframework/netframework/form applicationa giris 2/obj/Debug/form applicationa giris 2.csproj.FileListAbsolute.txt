@@ -1,0 +1,11 @@
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\bin\Debug\form applicationa giris 2.exe.config
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\bin\Debug\form applicationa giris 2.exe
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\bin\Debug\form applicationa giris 2.pdb
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form applicationa giris 2.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form_applicationa_giris_2.Form1.resources
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form_applicationa_giris_2.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form applicationa giris 2.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form applicationa giris 2.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form applicationa giris 2.exe
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form applicationa giris 2.pdb
+C:\Users\mhasb\Source\Repos\netframework\form applicationa giris 2\obj\Debug\form_applicationa_giris_2.anaform.resources

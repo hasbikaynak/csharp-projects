@@ -1,0 +1,7 @@
+C:\Users\mhasb\Source\Repos\algorytm belmanna forda\bin\Debug\algorytm belmanna forda.exe.config
+C:\Users\mhasb\Source\Repos\algorytm belmanna forda\bin\Debug\algorytm belmanna forda.exe
+C:\Users\mhasb\Source\Repos\algorytm belmanna forda\bin\Debug\algorytm belmanna forda.pdb
+C:\Users\mhasb\Source\Repos\algorytm belmanna forda\obj\Debug\algorytm belmanna forda.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\algorytm belmanna forda\obj\Debug\algorytm belmanna forda.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\algorytm belmanna forda\obj\Debug\algorytm belmanna forda.exe
+C:\Users\mhasb\Source\Repos\algorytm belmanna forda\obj\Debug\algorytm belmanna forda.pdb

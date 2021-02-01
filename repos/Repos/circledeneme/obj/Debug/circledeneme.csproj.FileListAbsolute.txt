@@ -1,0 +1,11 @@
+C:\Users\mhasb\Source\Repos\circledeneme\bin\Debug\circledeneme.exe.config
+C:\Users\mhasb\Source\Repos\circledeneme\bin\Debug\circledeneme.exe
+C:\Users\mhasb\Source\Repos\circledeneme\bin\Debug\circledeneme.pdb
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circledeneme.csprojAssemblyReference.cache
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circledeneme.Form1.resources
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circledeneme.Properties.Resources.resources
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circledeneme.csproj.GenerateResource.cache
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circledeneme.csproj.CoreCompileInputs.cache
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circledeneme.exe
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circledeneme.pdb
+C:\Users\mhasb\Source\Repos\circledeneme\obj\Debug\circle.Form1.resources
